@@ -20,5 +20,15 @@
 @import url(../blocks/intro/__line-item/intro__line-item.css);
 @import url(../blocks/intro/__image/intro__image.css);
 
-
+@import url(../blocks/rocket/rocket.css);
+@import url(../blocks/rocket/__title/rocket__title.css);
+@import url(../blocks/rocket/__params/rocket__params.css);
+@import url(../blocks/rocket/__param/rocket__param.css);
+@import url(../blocks/rocket/__values/rocket__values.css);
+@import url(../blocks/rocket/__value/rocket__value.css);
+@import url(../blocks/rocket/__value-second/rocket__value-second.css);
+@import url(../blocks/rocket/__description/rocket__description.css);
+@import url(../blocks/rocket/__image/rocket__image.css);
+@import url(../blocks/rocket/__first-section/rocket__first-section.css);
+@import url(../blocks/rocket/__second-section/rocket__second-section.css);
 

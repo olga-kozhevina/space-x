@@ -1,4 +1,6 @@
 .intro__image {
   height: 1006px;
+  width: 1437px;
   margin-top: -25px;
+  object-fit: cover;
 }

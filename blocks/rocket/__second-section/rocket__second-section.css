@@ -1,0 +1,6 @@
+.rocket__second-section {
+  display: flex;
+  flex-direction: row;
+  gap: 130px;
+  margin-bottom: 189px;
+}
