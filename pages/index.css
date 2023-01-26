@@ -13,3 +13,12 @@
 @import url(../blocks/header/__menu-side/header__menu-side.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link-side/header__link-side.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__description/intro__description.css);
+@import url(../blocks/intro/__line-item/intro__line-item.css);
+@import url(../blocks/intro/__image/intro__image.css);
+
+
+
