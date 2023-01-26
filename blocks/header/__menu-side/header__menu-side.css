@@ -1,0 +1,10 @@
+.header__menu-side {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 20px;
+  max-width: 137px;
+  margin: 0;
+}

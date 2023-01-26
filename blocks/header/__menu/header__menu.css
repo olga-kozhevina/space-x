@@ -1,0 +1,10 @@
+.header__menu {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 20px;
+  max-width: 262px;
+  margin: 0;
+}
