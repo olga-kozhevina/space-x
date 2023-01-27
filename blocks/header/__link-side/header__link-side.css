@@ -4,4 +4,10 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 14px;
+  cursor: pointer;
+  transition: opacity .3s ease-in-out;
+}
+
+.header__link-side:hover {
+  opacity: .6;
 }

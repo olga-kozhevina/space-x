@@ -7,4 +7,5 @@
   gap: 20px;
   max-width: 262px;
   margin: 0;
+  z-index: 1;
 }

@@ -4,4 +4,10 @@
   font-size: 18px;
   line-height: 21px;
   color: #fff;
+  cursor: pointer;
+  transition: opacity .3s ease-in-out;
+}
+
+.footer__link:hover {
+  opacity: .6;
 }

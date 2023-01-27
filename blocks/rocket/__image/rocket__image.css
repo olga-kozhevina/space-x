@@ -4,4 +4,5 @@
   height: 1718px;
   object-fit: cover;
   margin: -66px 0 0 40px;
+  z-index: 1;
 }

@@ -10,4 +10,10 @@
   margin: 0 20px;
   border-radius: 6px;
   border: 2px solid #fff;
+  cursor: pointer;
+  transition: opacity .3s ease-in-out;
+}
+
+.footer__button:hover {
+  opacity: .6;
 }

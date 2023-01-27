@@ -4,4 +4,5 @@
   border: 1px solid #FFFFFF;
   transform: rotate(90deg);
   margin-top: 54px;
+  z-index: 1;
 }
