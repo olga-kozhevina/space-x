@@ -32,3 +32,10 @@
 @import url(../blocks/rocket/__first-section/rocket__first-section.css);
 @import url(../blocks/rocket/__second-section/rocket__second-section.css);
 
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__menu/footer__menu.css);
+@import url(../blocks/footer/__menu-item/footer__menu-item.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__button/footer__button.css);
