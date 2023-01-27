@@ -6,3 +6,9 @@
   margin: 0;
   padding-top: 18px;
 }
+
+@media screen and (max-width: 768px) {
+  .rocket__description {
+    font-size: 12px;
+  }
+}

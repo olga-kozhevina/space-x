@@ -3,3 +3,9 @@
   flex-direction: row;
   align-self: flex-start;
 }
+
+@media screen and (max-width: 650px) {
+  .header__container {
+    align-self: center;
+  }
+}

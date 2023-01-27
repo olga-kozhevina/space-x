@@ -17,3 +17,13 @@
 .footer__button:hover {
   opacity: .6;
 }
+
+@media screen and (max-width: 650px) {
+  .footer__button {
+    font-size: 12px;
+    line-height: 18px;
+    width: 160px;
+    height: 30px;
+    margin: 0 auto;
+  }
+}

@@ -6,3 +6,23 @@
   margin: 51px auto 0;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1280px) {
+  .header {
+    margin: 51px 20px 0;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    margin: 51px 40px 0;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .header {
+    flex-direction: column;
+    margin: 51px 20px 0;
+    align-items: center;
+  }
+}

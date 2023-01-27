@@ -1,8 +1,15 @@
 .intro__line-item {
   width: 59px;
   height: 0px;
-  border: 1px solid #FFFFFF;
+  border: .5px solid #FFFFFF;
   transform: rotate(90deg);
   margin-top: 54px;
   z-index: 1;
+}
+
+@media screen and (max-width: 650px) {
+  .intro__line-item {
+    width: 20px;
+    margin: 0;
+  }
 }

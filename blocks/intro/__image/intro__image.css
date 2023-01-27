@@ -1,7 +1,38 @@
 .intro__image {
+  display: block;
   height: 1006px;
   width: 1006px;
   margin-top: -25px;
   object-fit: cover;
   z-index: 0;
+}
+
+@media screen and (max-width: 1280px) {
+  .intro__image {
+    width: calc(1006px - 300px);
+    height: calc(1006px - 300px);
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .intro__image {
+    width: calc(1006px - 350px);
+    height: calc(1006px - 350px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__image {
+    width: calc(1006px - 450px);
+    height: calc(1006px - 450px);
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .intro__image {
+    width: calc(1006px - 780px);
+    height: calc(1006px - 780px);
+    margin-top: 15px;
+  }
 }

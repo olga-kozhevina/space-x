@@ -5,3 +5,11 @@
   color: #808080;
   margin: 28px auto 30px;
 }
+
+@media screen and (max-width: 650px) {
+  .footer__info {
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+  }
+}

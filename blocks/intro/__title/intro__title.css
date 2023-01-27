@@ -6,3 +6,11 @@
   margin: 122px auto 0;
   z-index: 1;
 }
+
+@media screen and (max-width: 650px) {
+  .intro__title {
+    font-size: 32px;
+    line-height: 60px;
+    margin: 60px auto 0;
+  }
+}

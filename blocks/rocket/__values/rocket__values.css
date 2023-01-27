@@ -5,3 +5,10 @@
   line-height: 32px;
   padding: 0;
 }
+
+@media screen and (max-width: 650px) {
+  .rocket__values {
+    font-size: 12px;
+    line-height: 29px;
+  }
+}

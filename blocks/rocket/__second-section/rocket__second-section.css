@@ -4,3 +4,23 @@
   gap: 130px;
   margin-bottom: 189px;
 }
+
+@media screen and (max-width: 1024px) {
+  .rocket__second-section {
+    margin-bottom: 109px;
+    gap: 90px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .rocket__second-section {
+    gap: 50px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .rocket__second-section {
+    gap: 15px;
+    margin-bottom: 60px;
+  }
+}
