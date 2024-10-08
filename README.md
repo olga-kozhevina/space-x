@@ -28,4 +28,4 @@
 - присутствуют файлы index.html, index.css, README.md, директории blocks и images;
 - ссылки видоизменяются при наведении.
 
-## [Посмотреть готовый проект &rarr;](https://olpom.github.io/space-x/)
+## [Посмотреть готовый проект &rarr;](https://olga-kozhevina.github.io/space-x/)
